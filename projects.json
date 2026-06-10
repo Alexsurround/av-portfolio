@@ -14,7 +14,7 @@
       "Tannoy V15 (8)","Tannoy V12 (8)","DPA Microphones 4015-TL",
       "Beyerdynamic OPUS 53 (8)","Beyerdynamic MC 930 Stereo","t.c.electronic D-TWO","CreamWare A16 Ultra"
     ],
-    "photos": [./media/odessa-opera/Oper11.jpg],
+    "photos": [/media/odessa-opera/Oper11.jpg],
     "pressLinks": [{"label": "RealMusic UA", "url": "http://realmusic.ua"}],
     "videoUrl": "",
     "featured": true
