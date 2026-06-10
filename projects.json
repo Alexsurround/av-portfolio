@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "title": "Одесский Национальный Театр Оперы и Балета",
+    "location": "Одесса, Украина",
+    "year": "2005",
+    "category": "Theatre & Opera",
+    "description": "Сложнейший акустический проект по установке современной звуковой системы в Национальном театре. Проект разработан при поддержке Калифорнийского Института Акустики. Аналогичные проекты реализованы в Сиднейском Оперном Театре, Карнеги-Холл, Венском Народном Театре. Руководитель проекта — Александр Фёдоров.",
+    "equipment": [
+      "Meyer Sound MG-1D",
+      "Meyer Sound M1D (20)",
+      "Meyer Sound M1D-Sub (8)",
+      "Meyer Sound ILON-10",
+      "Meyer Sound RMS System",
+      "Allen Heath ML5000-32",
+      "Allen Heath GL3800-824B",
+      "QSC DSP-30 (4)",
+      "QSC DSP-3 (5)",
+      "QSC CX404",
+      "QSC CM 16A",
+      "Tannoy V15 (8)",
+      "Tannoy V12 (8)",
+      "DPA Microphones 4015-TL",
+      "Beyerdynamic OPUS 53 (8)",
+      "Beyerdynamic MC 930 Stereo",
+      "t.c.electronic D-TWO",
+      "CreamWare A16 Ultra"
+    ],
+    "photos": [],
+    "pressLinks": [
+      { "label": "RealMusic UA", "url": "http://realmusic.ua" }
+    ],
+    "videoUrl": "",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Cinema City — Зал 1 Dolby Atmos",
+    "location": "Киев, Украина",
+    "year": "2013",
+    "category": "Cinema & Dolby",
+    "description": "Первая инсталляция Dolby Atmos в СНГ. Полная система QSC Cinema с процессором Dolby CP-850. На момент установки система Dolby Atmos только вышла на рынок (2012), что делает этот проект историческим для региона.",
+    "equipment": [
+      "Dolby CP-850",
+      "Dolby DAC3201",
+      "QSC Cinema SC-423C (5)",
+      "QSC Cinema SB-7218 Sub (2)",
+      "QSC Cinema MD-L118 Sub (2)",
+      "QSC Cinema SR-1030 (31)",
+      "QSC Cinema K-12 (8)",
+      "QSC Cinema DCA-1622 (5)",
+      "QSC Cinema DCA-3422 (2)",
+      "QSC Cinema DCA-1644 (8)",
+      "QSC Cinema DCM-30D"
+    ],
+    "photos": [],
+    "pressLinks": [],
+    "videoUrl": "",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Концерт-Холл ТЦ Сады Победы",
+    "location": "Одесса, Украина",
+    "year": "2010",
+    "category": "Concert Hall",
+    "description": "Крупный концертный зал торгового центра с профессиональной системой Meyer Sound MELODIE. Полный комплекс: PA система, сценические мониторы, VIP-зоны, летние балконы. Звукорежиссёрский комплекс на базе Allen & Heath ML4000.",
+    "equipment": [
+      "Meyer Sound MELODIE (28)",
+      "Meyer Sound 600-HP (14)",
+      "Meyer Sound UPJ-1P (36)",
+      "Meyer Sound 700-HP RMS (2)",
+      "Meyer Sound M1D (10)",
+      "Meyer Sound GALILEO 616 (2)",
+      "Meyer Sound RMS 4.10",
+      "Allen Heath ML4000-48",
+      "Beyerdynamic DT 990 PRO",
+      "DPA 4088-F (2)",
+      "Beyerdynamic OPUS 369 (2)",
+      "HIGH END Hog 500 (2)",
+      "HIGH END Studio Spot CMY (20)"
+    ],
+    "photos": [],
+    "pressLinks": [],
+    "videoUrl": "",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Концерт-Хол Готельного Комплексу «Одеса»",
+    "location": "Одесса, Украина",
+    "year": "2013",
+    "category": "Hotel & Hospitality",
+    "description": "Профессиональная система высшего класса для концертного зала пятизвёздочного отеля. Clair Brothers — оборудование мирового концертного тура уровня. LabGruppen PLM серия используется на турне Coldplay, U2. DiGiCo SD9 — цифровой пульт профессионального класса.",
+    "equipment": [
+      "Clair Brothers i212 Line Array (16)",
+      "Clair Brothers CS218 Sub (8)",
+      "Clair Brothers 12AM Monitor (4)",
+      "LabGruppen CB-PLM10K (8)",
+      "LabGruppen CB-PLM20K (2)",
+      "LabGruppen FP10000Q",
+      "DiGiCo X-SD9-1P",
+      "t.c.electronic XO-24",
+      "Robe Robin 300 Beam (8)",
+      "Robe Robin 300 Spot (12)",
+      "Robe Robin 300 Wash (8)",
+      "High End Nano Hog 4"
+    ],
+    "photos": [],
+    "pressLinks": [],
+    "videoUrl": "",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "First Odessa Casino — L-Acoustics + Q-SYS",
+    "location": "Одесса, Украина",
+    "year": "2021",
+    "category": "Casino & Club",
+    "description": "Комплексная инсталляция \"под ключ\" площадью 5000 м². Концертная PA система L-Acoustics ARCS, Allen & Heath SQ-6 (96кГц). Трансляционная система фонового звука построена на экосистеме Q-SYS с центральным процессором QSC CORE 110f — полная интеграция трансляции аудио и управления.",
+    "equipment": [
+      "L-Acoustics ARCS FOCUS (8)",
+      "L-Acoustics ARCS WIDE (4)",
+      "L-Acoustics KS21 Sub (6)",
+      "L-Acoustics A10 Focus (4)",
+      "L-Acoustics LA4X (4)",
+      "L-Acoustics LA2Xi",
+      "L-Acoustics 5XT (8)",
+      "L-Acoustics 112P Monitor (4)",
+      "Allen & Heath SQ-6 (96kHz)",
+      "Allen & Heath DX168 (2)",
+      "QSC CORE 110f",
+      "QSC SPA Amplifiers",
+      "QSC AcousticDesign AD-S6T",
+      "Clay Paky Mini-B",
+      "Clay Paky Tambora Batten",
+      "Luxibel B NARROW",
+      "Luxibel B BLINDED"
+    ],
+    "photos": [],
+    "pressLinks": [
+      { "label": "RealMusic — Q-SYS Каталог", "url": "http://realmusic.ua" }
+    ],
+    "videoUrl": "",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Emily Resort Event Hall — L-Acoustics K3",
+    "location": "Львів-Винники, Украина",
+    "year": "2022",
+    "category": "Concert Hall",
+    "description": "Первая система L-Acoustics K3 в Украине. Крупнейший концертный зал Западной Украины (1500 м²). Проект опубликован на официальном сайте L-Acoustics. Установка включает Milan AVB сетевую инфраструктуру с полным аналоговым резервированием.",
+    "equipment": [
+      "L-Acoustics K3 (12)",
+      "L-Acoustics A15 Wide (2)",
+      "L-Acoustics KS28 Sub (6)",
+      "L-Acoustics A10 Focus (4)",
+      "L-Acoustics A10 Wide (2)",
+      "L-Acoustics LA12X (4)",
+      "L-Acoustics LA4X",
+      "L-Acoustics P1 Processor",
+      "L-Acoustics LS10 Milan AVB Switch"
+    ],
+    "photos": [
+      "https://www.l-acoustics.com/wp-content/uploads/2022/11/LA_Emily_Event_Hall_1_ed-1024x683.jpg",
+      "https://www.l-acoustics.com/wp-content/uploads/2022/11/LA_Emily_Event_Hall_2_ed-1024x683.jpg",
+      "https://www.l-acoustics.com/wp-content/uploads/2022/11/LA_Emily_Event_Hall_4_ed-1024x683.jpg",
+      "https://www.l-acoustics.com/wp-content/uploads/2022/11/LA_Emily_Event_Hall_6_ed-1024x683.jpg"
+    ],
+    "pressLinks": [
+      {
+        "label": "L-Acoustics Press Release",
+        "url": "https://www.l-acoustics.com/press-releases/realmusic-installs-ukraines-first-l-acoustics-k3-system-at-emily-resort-event-hall/"
+      }
+    ],
+    "videoUrl": "",
+    "featured": true
+  }
+]
+
